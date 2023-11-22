@@ -1,6 +1,6 @@
 # Predicción del modelo
 
-Modelos probados:
+Modelos probados para la Predicción:
 - xgboost
 - logistic regression
 - random_forest
