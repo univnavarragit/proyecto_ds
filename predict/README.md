@@ -2,3 +2,4 @@
 
 Modelos probados:
 - xgboost
+- logistic regression
