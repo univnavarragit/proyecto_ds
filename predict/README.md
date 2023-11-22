@@ -3,3 +3,4 @@
 Modelos probados:
 - xgboost
 - logistic regression
+- random forest
